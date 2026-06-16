@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Ruda
 
-<!--
-**Ruda-Smuel/Ruda-Smuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy aprendiendo a programar desde cero, preparándome para entrar a estudiar **Ingeniería Informática**.
 
-Here are some ideas to get you started:
+Mi intención es llegar con bases sólidas antes de cursar la carrera.
+Voy a estar subiendo aquí mis proyectos a medida que avanzo, desde lo más simple hasta cosas más complejas. Si ves algo, ¡siéntete libre de revisarlo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Lo que voy aprendiendo
+- Python (variables, condiciones, ciclos, funciones)
+- Lógica de programación
+- Resolución de problemas paso a paso
+
+## 📂 Proyectos
+- [calculadora-python](https://github.com/Ruda-Smuel/calculadora-python) - Calculadora de consola con menú interactivo
